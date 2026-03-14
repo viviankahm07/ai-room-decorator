@@ -3,8 +3,6 @@ import OpenAI from "openai";
 import products from "@/data/products.json";
 import inspirationTags from "@/data/inspiration-tags.json";
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
-
 type Product = (typeof products)[0];
 type InspirationTags = typeof inspirationTags;
 
@@ -164,6 +162,7 @@ export async function POST(req: NextRequest) {
 
     if (process.env.OPENAI_API_KEY && refinementPrompt) {
       try {
+        const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
         const completion = await openai.chat.completions.create({
           model: "gpt-4o-mini",
           messages: [
