@@ -64,3 +64,4 @@ $$ language plpgsql;
 create trigger boards_updated_at
   before update on boards
   for each row execute procedure update_updated_at();
+
