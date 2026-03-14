@@ -27,6 +27,50 @@ export interface SavedBoard {
   totalCost: number;
   createdAt: string;
   updatedAt: string;
+  userId?: string;
+  sharedByEmail?: string; // set when this board was shared with the current user
+  layoutItems?: LayoutItem[];
+  roomDimensions?: RoomDimensions;
+}
+
+// ── Layout planner ──────────────────────────────────────────────────────────
+
+export type FurnitureShapeType =
+  | "bed" | "desk" | "chair" | "rug" | "plant" | "lamp"
+  | "shelf" | "nightstand" | "dresser" | "sofa" | "mirror" | "pillow" | "art";
+
+export interface LayoutItem {
+  id: string;
+  productId: string;
+  name: string;
+  category: string;
+  shapeType: FurnitureShapeType;
+  x: number;        // feet from left wall
+  y: number;        // feet from top wall
+  width: number;    // feet
+  depth: number;    // feet
+  rotation: number; // 0 | 90 | 180 | 270
+  price: number;
+  imageUrl: string;
+  productUrl?: string;
+}
+
+export interface RoomDimensions {
+  width: number;  // feet
+  length: number; // feet
+}
+
+export interface BoardShare {
+  id: string;
+  boardId: string;
+  sharedWithEmail: string;
+  sharedByUserId: string;
+  createdAt: string;
+}
+
+export interface AuthUser {
+  id: string;
+  email: string;
 }
 
 export interface ChatMessage {

@@ -10,16 +10,17 @@ const config: Config = {
     extend: {
       colors: {
         warm: {
-          cream: "#F5F0E8",
-          sand: "#E8DFD0",
-          terracotta: "#C4A484",
-          sage: "#9CAF88",
-          charcoal: "#2D2D2D",
+          cream: "#EAE6CB",
+          sand: "#EBCCDE",
+          teal: "#CCE8EB",
+          terracotta: "#6B2E52",
+          sage: "#968E59",
+          charcoal: "#2E676B",
         },
       },
       fontFamily: {
-        display: ["var(--font-playfair)", "Georgia", "serif"],
-        sans: ["var(--font-dm-sans)", "system-ui", "sans-serif"],
+        display: ["var(--font-inter)", "system-ui", "sans-serif"],
+        sans: ["var(--font-inter)", "system-ui", "sans-serif"],
       },
     },
   },

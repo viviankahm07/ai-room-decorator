@@ -8,11 +8,13 @@ import type { RoomInfo } from "@/types";
 interface EtsyProductsSectionProps {
   roomInfo: RoomInfo;
   label?: string;
+  onProductsChange?: (products: EtsyProduct[]) => void;
 }
 
 export default function EtsyProductsSection({
   roomInfo,
   label = "Shop These Looks",
+  onProductsChange,
 }: EtsyProductsSectionProps) {
   const [products, setProducts] = useState<EtsyProduct[]>([]);
   const [hasMore, setHasMore] = useState(false);
@@ -32,8 +34,10 @@ export default function EtsyProductsSection({
 
       const res = await fetch(`/api/etsy-products?${params}`);
       const data = await res.json();
-      setProducts((prev) => replace ? (data.products ?? []) : [...prev, ...(data.products ?? [])]);
+      const next = replace ? (data.products ?? []) : [...products, ...(data.products ?? [])];
+      setProducts(next);
       setHasMore(data.has_more ?? false);
+      onProductsChange?.(next);
     } finally {
       setLoading(false);
     }

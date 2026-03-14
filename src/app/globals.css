@@ -3,11 +3,16 @@
 @tailwind utilities;
 
 :root {
-  --warm-cream: #F5F0E8;
-  --warm-sand: #E8DFD0;
-  --warm-terracotta: #C4A484;
-  --warm-sage: #9CAF88;
-  --warm-charcoal: #2D2D2D;
+  --warm-cream: #EAE6CB;
+  --warm-sand: #EBCCDE;
+  --warm-teal: #CCE8EB;
+  --warm-terracotta: #6B2E52;
+  --warm-sage: #968E59;
+  --warm-charcoal: #2E676B;
+}
+
+html {
+  font-size: 18px;
 }
 
 body {
