@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --warm-cream: #F5F0E8;
+  --warm-sand: #E8DFD0;
+  --warm-terracotta: #C4A484;
+  --warm-sage: #9CAF88;
+  --warm-charcoal: #2D2D2D;
+}
+
+body {
+  background-color: var(--warm-cream);
+}
