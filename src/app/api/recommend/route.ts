@@ -155,7 +155,12 @@ export async function POST(req: NextRequest) {
       });
 
     const count = Math.min(12, scored.length);
-    const recommended = scored.slice(0, count).map((x) => x.product);
+    let recommended = scored.slice(0, count).map((x) => x.product);
+
+    // Fallback: if scoring filtered everything out, return first 12 products
+    if (recommended.length === 0) {
+      recommended = (products as Product[]).slice(0, 12);
+    }
 
     if (process.env.OPENAI_API_KEY && refinementPrompt) {
       try {
@@ -192,9 +197,8 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ products: recommended });
   } catch (error) {
     console.error("Recommend API error:", error);
-    return NextResponse.json(
-      { error: "Failed to get recommendations" },
-      { status: 500 }
-    );
+    // Return fallback products so the moodboard always shows something
+    const fallback = (products as Product[]).slice(0, 12);
+    return NextResponse.json({ products: fallback });
   }
 }

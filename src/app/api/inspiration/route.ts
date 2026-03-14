@@ -4,7 +4,7 @@ export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
   const query = searchParams.get("query") ?? "room decor aesthetic";
   const page = parseInt(searchParams.get("page") ?? "1", 10);
-  const perPage = 12;
+  const perPage = 24;
 
   const key = process.env.UNSPLASH_ACCESS_KEY;
   if (!key) {

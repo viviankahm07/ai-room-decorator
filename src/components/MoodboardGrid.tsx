@@ -6,9 +6,10 @@ import type { Product } from "@/types";
 interface MoodboardGridProps {
   products: Product[];
   isLoading?: boolean;
+  onGenerate?: () => void;
 }
 
-export default function MoodboardGrid({ products, isLoading }: MoodboardGridProps) {
+export default function MoodboardGrid({ products, isLoading, onGenerate }: MoodboardGridProps) {
   if (isLoading) {
     return (
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 p-4">
@@ -27,6 +28,14 @@ export default function MoodboardGrid({ products, isLoading }: MoodboardGridProp
       <div className="flex flex-col items-center justify-center min-h-[300px] text-warm-charcoal/60">
         <p className="text-lg font-display">No products yet</p>
         <p className="text-sm mt-2">Chat with the assistant to get decor recommendations</p>
+        {onGenerate && (
+          <button
+            onClick={onGenerate}
+            className="mt-4 px-4 py-2 rounded-lg bg-warm-terracotta text-white font-medium text-sm hover:bg-warm-terracotta/90 transition-colors"
+          >
+            Load sample moodboard
+          </button>
+        )}
       </div>
     );
   }
