@@ -1,8 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import OpenAI from "openai";
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
-
 const SYSTEM_PROMPT = `You are an AI room decorator assistant. Your job is to help users decorate a room by gathering their preferences and guiding the design process.
 
 You should ask the user for (in a conversational way, not all at once):
@@ -34,6 +32,7 @@ export async function POST(req: NextRequest) {
         { status: 500 }
       );
     }
+    const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
     const completion = await openai.chat.completions.create({
       model: "gpt-4o-mini",
       messages: [{ role: "system", content: SYSTEM_PROMPT }, ...messages],
