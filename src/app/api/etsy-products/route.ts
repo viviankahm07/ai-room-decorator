@@ -99,7 +99,12 @@ export async function GET(req: NextRequest) {
 
   const key = process.env.ETSY_API_KEY;
   if (!key) {
-    return NextResponse.json({ products: [], has_more: false, error: "no_key" });
+    const seed = getSeedProducts(theme);
+    const FIRST = 15, MORE = 8;
+    const paged = loadMore
+      ? seed.slice(FIRST + (page - 1) * MORE, FIRST + page * MORE)
+      : seed.slice(0, FIRST);
+    return NextResponse.json({ products: paged, has_more: seed.length > (loadMore ? FIRST + page * MORE : FIRST) });
   }
 
   try {
