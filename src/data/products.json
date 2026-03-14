@@ -54,7 +54,7 @@
     "name": "Gold Cabinet",
     "category": "rugs",
     "price": 129,
-    "image_url": "https://unsplash.com/photos/green-plant-on-white-ceramic-pot-IH7wPsjwomc",
+    "image_url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
     "color": "gold",
     "material": "metal",
     "style_tags": [
@@ -70,7 +70,7 @@
     "name": "White Bed",
     "category": "bed",
     "price": 159,
-    "image_url": "https://unsplash.com/photos/a-white-bed-with-white-sheets-and-pillows-0dJA53GaIl0",
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=400",
     "color": "white",
     "material": "cotton",
     "style_tags": [
@@ -87,7 +87,7 @@
     "name": "Pink Cabinet",
     "category": "cabinet",
     "price": 69,
-    "image_url": "https://unsplash.com/photos/white-and-silver-colored-table-lamp-PKmH4_lj-DU",
+    "image_url": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400",
     "color": "pink",
     "material": "polyester",
     "style_tags": [
@@ -169,7 +169,7 @@
     "name": "Green Bed",
     "category": "bed",
     "price": 79,
-    "image_url": "https://unsplash.com/photos/white-bed-with-gray-and-white-bed-linen-nEtpvJjnPVo",
+    "image_url": "https://images.unsplash.com/photo-1640109478916-f445f8f19b11?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "green",
     "material": "cotton",
     "style_tags": [
@@ -186,7 +186,7 @@
     "name": "Vintage Wood Vanity",
     "category": "vanities",
     "price": 299,
-    "image_url": "https://unsplash.com/photos/a-bathroom-with-a-sink-and-a-mirror-FxWRXUBanZA",
+    "image_url": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=400",
     "color": "brown",
     "material": "wood",
     "style_tags": [
@@ -203,13 +203,13 @@
     "name": "Blue Bed",
     "category": "bed",
     "price": 449,
-    "image_url": "https://unsplash.com/photos/white-and-clear-desk-lamp-on-white-wooden-nightstand-near-bed-M8iGdeTSOkg",
+    "image_url": "https://images.unsplash.com/photo-1489171078254-c3365d6e359f?w=400",
     "color": "blue",
     "material": "cotton",
     "style_tags": [
       "minimalist",
       "modern",
-      "clean",
+      "clean"
     ],
     "source": "ikea",
     "product_url": "#"
@@ -219,7 +219,7 @@
     "name": "White Cabinet",
     "category": "cabinet",
     "price": 329,
-    "image_url": "https://unsplash.com/photos/a-bedroom-with-a-bed-nightstand-and-vase-with-flowers-5zDFUb4R-60",
+    "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=400",
     "color": "natural",
     "material": "reclaimed wood",
     "style_tags": [
@@ -235,7 +235,7 @@
     "name": "Warm Fairy Lights",
     "category": "string lights",
     "price": 29,
-    "image_url": "https://unsplash.com/photos/white-and-blue-window-curtain-iXG6hbevvPw",
+    "image_url": "https://plus.unsplash.com/premium_photo-1680098057499-9850b921ebb5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "warm",
     "material": "metal",
     "style_tags": [
@@ -252,7 +252,7 @@
     "name": "Fairy Light Garland",
     "category": "string lights",
     "price": 19,
-    "image_url": "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?w=400",
+    "image_url": "https://images.unsplash.com/photo-1611286079235-f4e84fccacba?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "warm",
     "material": "plastic",
     "style_tags": [
@@ -265,10 +265,10 @@
   },
   {
     "id": "17",
-    "name": "Bedroom Fairy Lights",
+    "name": "Aesthetic Lamp",
     "category": "string lights",
     "price": 39,
-    "image_url": "https://unsplash.com/photos/a-bed-in-a-room-with-wooden-walls-zYGGp6Gvq9g",
+    "image_url": "https://images.unsplash.com/photo-1620812067822-899be8a6a9a7?q=80&w=1384&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "copper",
     "material": "copper",
     "style_tags": [
@@ -284,7 +284,7 @@
     "name": "Minimalist Lamp",
     "category": "lamps",
     "price": 49,
-    "image_url": "https://unsplash.com/photos/a-table-with-a-lamp-and-a-vase-on-it-YnvXxHe9hRk",
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
     "color": "white",
     "material": "plastic",
     "style_tags": [
@@ -299,7 +299,7 @@
     "name": "Boho Artsy Poster",
     "category": "posters",
     "price": 24,
-    "image_url": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-painting-on-the-wall-OpuOPflvufU",
+    "image_url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=400",
     "color": "yellow",
     "material": "paper",
     "style_tags": [
@@ -316,7 +316,7 @@
     "name": "Paintings",
     "category": "posters",
     "price": 34,
-    "image_url": "https://unsplash.com/photos/a-living-room-with-two-paintings-on-the-wall-hYPirBmoAPQ",
+    "image_url": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400",
     "color": "multicolor",
     "material": "paper",
     "style_tags": [
@@ -333,7 +333,7 @@
     "name": "Blue Posters",
     "category": "posters",
     "price": 29,
-    "image_url": "https://unsplash.com/photos/white-and-brown-wooden-end-table-near-wall-inside-room-2dTeBxsF-Q0",
+    "image_url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=400",
     "color": "blue",
     "material": "paper",
     "style_tags": [
@@ -349,7 +349,7 @@
     "name": "Black and White Painting",
     "category": "posters",
     "price": 27,
-    "image_url": "https://unsplash.com/photos/woman-wearing-white-top-photo-exBd9GXAFhs",
+    "image_url": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400",
     "color": "Black",
     "material": "paper",
     "style_tags": [
@@ -380,7 +380,7 @@
     "name": "Pink Bedside Lamp",
     "category": "lamps",
     "price": 129,
-    "image_url": "https://unsplash.com/photos/gold-table-almp-VDPauwJ_sHo",
+    "image_url": "https://plus.unsplash.com/premium_photo-1768476877533-c133f3f800c6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "pink",
     "material": "rattan",
     "style_tags": [
@@ -396,7 +396,7 @@
     "name": "Minimalistic Cabinet",
     "category": "cabinet",
     "price": 89,
-    "image_url": "https://unsplash.com/photos/white-wooden-cabinet-with-mirror-sh6Aj176NAQ",
+    "image_url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
     "color": "black",
     "material": "metal",
     "style_tags": [
@@ -409,10 +409,10 @@
   },
   {
     "id": "26",
-    "name": "Warm Wood Lamp",
+    "name": "Minimalistic Lamp",
     "category": "lamps",
     "price": 94,
-    "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400",
+    "image_url": "https://images.unsplash.com/photo-1666300593384-2dd896e1a222?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "color": "brown",
     "material": "wood",
     "style_tags": [
@@ -428,7 +428,7 @@
     "name": "Cozy Nature Interior",
     "category": "lamps",
     "price": 69,
-    "image_url": "https://unsplash.com/photos/green-indoor-plant-near-brown-wooden-table-Ihh0nT34AJs",
+    "image_url": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=400",
     "color": "Brown",
     "material": "wood",
     "style_tags": [
@@ -444,7 +444,7 @@
     "name": "Pink Ceramic Lamp",
     "category": "lamps",
     "price": 59,
-    "image_url": "https://unsplash.com/photos/a-minimalist-pink-table-lamp-on-a-wooden-floor-cKw1YMftEcM",
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
     "color": "pink",
     "material": "ceramic",
     "style_tags": [
@@ -460,7 +460,7 @@
     "name": "Monstera Plant",
     "category": "plants",
     "price": 34,
-    "image_url": "https://unsplash.com/photos/a-potted-plant-sitting-on-top-of-a-wooden-table-E7qObwaGJZY",
+    "image_url": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=400",
     "color": "green",
     "material": "organic",
     "style_tags": [
@@ -509,7 +509,7 @@
     "name": "Beanbag",
     "category": "furniture",
     "price": 49,
-    "image_url": "https://unsplash.com/photos/house-with-cozy-boho-ethnic-interior-in-living-room-green-plants-in-flower-pots-decoration-at-home-daDXpOWwmFo",
+    "image_url": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=400",
     "color": "green",
     "material": "organic",
     "style_tags": [
@@ -526,7 +526,7 @@
     "name": "Cozy Sofa",
     "category": "furniture",
     "price": 14,
-    "image_url": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-wooden-table-POCCyjh7gVA",
+    "image_url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
     "color": "green",
     "material": "organic",
     "style_tags": [
@@ -543,7 +543,7 @@
     "name": "White Bedroom",
     "category": "plants",
     "price": 29,
-    "image_url": "https://unsplash.com/photos/a-bedroom-with-a-large-white-bed-sitting-next-to-a-window-KcwNURzrcxM",
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=400",
     "color": "white",
     "material": "organic",
     "style_tags": [
@@ -560,7 +560,7 @@
     "name": "Macramé Wall Hanging",
     "category": "wall decor",
     "price": 45,
-    "image_url": "https://unsplash.com/photos/a-close-up-of-a-decorated-tree-inside-a-room-GyG8thVBInw",
+    "image_url": "https://images.unsplash.com/photo-1531835551805-16d864c8d311?w=400",
     "color": "white",
     "material": "cotton",
     "style_tags": [
@@ -576,7 +576,7 @@
     "name": "Minimal Wall Clock",
     "category": "wall decor",
     "price": 39,
-    "image_url": "https://unsplash.com/photos/two-pumpkins-on-table-below-wall-clock-8fvDJw3jrcI",
+    "image_url": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=400",
     "color": "black",
     "material": "metal",
     "style_tags": [
@@ -591,7 +591,7 @@
     "name": "Wooden Floating Shelves",
     "category": "wall decor",
     "price": 59,
-    "image_url": "https://unsplash.com/photos/a-wooden-shelf-with-a-mirror-above-it-HZYjngo7eEo",
+    "image_url": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400",
     "color": "brown",
     "material": "wood",
     "style_tags": [
@@ -607,7 +607,7 @@
     "name": "Metal Wall Sculpture",
     "category": "wall decor",
     "price": 79,
-    "image_url": "https://unsplash.com/photos/a-bed-with-a-gray-headboard-and-white-pillows-c7sXezL3skc",
+    "image_url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=400",
     "color": "black",
     "material": "metal",
     "style_tags": [
@@ -623,7 +623,7 @@
     "name": "Modern Mirror",
     "category": "wall decor",
     "price": 89,
-    "image_url": "https://unsplash.com/photos/a-mirror-and-a-vase-on-a-table-eWwKNgaY98w",
+    "image_url": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400",
     "color": "natural",
     "material": "rattan",
     "style_tags": [
@@ -639,13 +639,534 @@
     "name": "Gallery Wall Frame Set",
     "category": "wall decor",
     "price": 69,
-    "image_url": "https://unsplash.com/photos/a-bed-with-two-framed-pictures-above-it-RIM4xcMXxfE",
+    "image_url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=400",
     "color": "white",
     "material": "wood",
     "style_tags": [
       "minimalist",
       "modern",
       "scandinavian"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "41",
+    "name": "Pink Platform Bed",
+    "category": "beds",
+    "price": 500,
+    "image_url": "https://abeautifulmess.com/wp-content/uploads/2018/08/Reupholster-Your-Bed-Frame-in-Just-One-Afternoon-with-a-no-sew-option-too-Click-through-for-tutorial-1-2.jpg",
+    "color": "pink",
+    "material": "cotton",
+    "style_tags": [
+      "minimalist",
+      "modern",
+      "cozy",
+      "pastel"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "42",
+    "name": "Twin XL White Bed",
+    "category": "beds",
+    "price": 400,
+    "image_url": "https://www.ana-white.com/sites/default/files/inline-images/modern-platform-bed-frame-plans.jpg",
+    "color": "white",
+    "material": "wool",
+    "style_tags": [
+      "minimalist",
+      "modern",
+      "cozy",
+      "pastel",
+      "boho"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "43",
+    "name": "Blue and White Bed",
+    "category": "beds",
+    "price": 450,
+    "image_url": "https://www.furniturecart.com/media/catalog/product/B/6/B680-57-B100-31-bed-1.jpg",
+    "color": "blue",
+    "material": "wool",
+    "style_tags": [
+      "minimalist",
+      "modern",
+      "cozy"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "44",
+    "name": "Colorful Vinage Bed",
+    "category": "beds",
+    "price": 600,
+    "image_url": "https://www.domino.com/wp-content/uploads/2021/06/11/Kids-twin-bed-tips-domino-1.jpg?quality=85",
+    "color": "rainbow",
+    "material": "wool",
+    "style_tags": [
+      "modern",
+      "cozy",
+      "vintage",
+      "boho"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "45",
+    "name": "White Modern Bed",
+    "category": "beds",
+    "price": 400,
+    "image_url": "https://bysophialee.com/wp-content/uploads/DBA31867-DA11-4B1C-993B-B7ADD8163EA9-682x1024.jpg",
+    "color": "white",
+    "material": "wool",
+    "style_tags": [
+      "modern",
+      "cozy",
+      "boho",
+      "minimalist",
+      "pastel"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "46",
+    "name": "Modern Desk with Hutch",
+    "category": "desks",
+    "price": 150,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBTbBAuRk6MHr1CIHVB9PCL7qbRgaouBSsg&s",
+    "color": "gray",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "47",
+    "name": "Minimalistic White Desk",
+    "category": "desks",
+    "price": 100,
+    "image_url": "https://cdn11.bigcommerce.com/s-9uidjadyqm/images/stencil/1280x1280/products/15905/63715/CUBEBOOK-WHITE-OTLT_20_1__79365.1742501719__64332.1754082924.jpg?c=1",
+    "color": "white",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "pastel",
+      "cozy"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "48",
+    "name": "Wooden Desk with Hutch",
+    "category": "desks",
+    "price": 90,
+    "image_url": "https://m.media-amazon.com/images/I/71Eru0z0K5L.jpg",
+    "color": "brown",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "49",
+    "name": "Plain Wooden Desk",
+    "category": "desks",
+    "price": 75,
+    "image_url": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,w_730/dt%2Fphoto%2Fstyle-and-shopping%2F2023-10%2Fits-giving-marble-contact-paper%2Fdesk-before",
+    "color": "brown",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "50",
+    "name": "Large Work Desk",
+    "category": "desks",
+    "price": 200,
+    "image_url": "https://ecologicfurniture.com/wp-content/uploads/2021/01/EcologicStudentFurniture-FLEX-TwinXL-LOFT-Collegiate-600x338.jpg",
+    "color": "gray",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "51",
+    "name": "White Fluffy Rug",
+    "category": "rugs",
+    "price": 100,
+    "image_url": "https://m.media-amazon.com/images/I/81zBhItLCKL._AC_UF894,1000_QL80_.jpg",
+    "color": "white",
+    "material": "wool",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "pastel"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "52",
+    "name": "Teal Mosaic Patchwork Rug",
+    "category": "rugs",
+    "price": 150,
+    "image_url": "https://cdn.shopify.com/s/files/1/1526/6217/files/1_3d84e324-fdea-4a59-a381-885f8b7db2ef_1024x1024.jpg?v=1636550141",
+    "color": "blue",
+    "material": "wool",
+    "style_tags": [
+      "modern",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "53",
+    "name": "Blue Wave Rug",
+    "category": "rugs",
+    "price": 100,
+    "image_url": "https://d28m5bx785ox17.cloudfront.net/v1/img/L3KxVFoJqjfHFvzPHcQgF2WluU15v5v-nhEvOafmY6g=/d/l",
+    "color": "blue",
+    "material": "wool",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "54",
+    "name": "Gray Fluffy Rug",
+    "category": "rugs",
+    "price": 80,
+    "image_url": "https://lowestcostmattress.com/cdn/shop/products/61euhiDgT3L_500x500.jpg?v=1678474523",
+    "color": "gray",
+    "material": "cotton",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "55",
+    "name": "Gray Floral Rug",
+    "category": "rugs",
+    "price": 125,
+    "image_url": "https://target.scene7.com/is/image/Target/GUEST_480991ff-1505-4995-9309-dc1b1c8bea09?wid=300&hei=300&fmt=pjpeg",
+    "color": "gray",
+    "material": "cotton",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "56",
+    "name": "Twin Boho Lamps",
+    "category": "lamps",
+    "price": 50,
+    "image_url": "https://m.media-amazon.com/images/I/71iZcQD0oDL.jpg",
+    "color": "white",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage",
+      "pastel"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "57",
+    "name": "Adjustable Desk Lamp",
+    "category": "lamps",
+    "price": 30,
+    "image_url": "https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2017/12/Desk-lamp-with-USB.jpg",
+    "color": "white",
+    "material": "plastic",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "pastel"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "58",
+    "name": "Blue Desk Lamp",
+    "category": "lamps",
+    "price": 30,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafMOCWyxMrUR6P5Knx5KTDJ18XLkmzecdaQ&s",
+    "color": "blue",
+    "material": "plastic",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "nature"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "59",
+    "name": "Hanging Bed Lamp",
+    "category": "lamps",
+    "price": 20,
+    "image_url": "https://m.media-amazon.com/images/I/71l2IsQirIL._AC_UF894,1000_QL80_.jpg",
+    "color": "white",
+    "material": "plastic",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "60",
+    "name": "Wavy Table Lamp",
+    "category": "lamps",
+    "price": 90,
+    "image_url": "https://cdn.apartmenttherapy.info/image/upload/v1746202262/dt/photo/style-and-shopping/2025-05/best-lighting-for-dorms/zenply-novelty-small-lamps.jpg",
+    "color": "white",
+    "material": "glass",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "61",
+    "name": "Snake Plant Stand",
+    "category": "plants",
+    "price": 50,
+    "image_url": "https://cdn.shopify.com/s/files/1/0624/7972/8867/files/dorm_1_480x480.jpg?v=1679580946",
+    "color": "green",
+    "material": "ceramic",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "62",
+    "name": "Desk Plants",
+    "category": "plants",
+    "price": 30,
+    "image_url": "https://www.birdsandblooms.com/wp-content/uploads/2021/07/bloomscape_pothos_collection_terra-cotta_crop0621-scaled-e1625247167764.jpg",
+    "color": "green",
+    "material": "ceramic",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "63",
+    "name": "Blue Themed Posters",
+    "category": "posters",
+    "price": 30,
+    "image_url": "https://i.etsystatic.com/5397444/r/il/8ca324/4933533267/il_570xN.4933533267_l6a2.jpg",
+    "color": "blue",
+    "material": "plastic",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "64",
+    "name": "Variety Posters",
+    "category": "posters",
+    "price": 20,
+    "image_url": "https://assets.artifactuprising.com/assets/campaigns/2021/05-17+Dorm+Wall+Decor+Blog/DormDecor-hero+(1).jpg",
+    "color": "rainbow",
+    "material": "paper",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "65",
+    "name": "Pink Dorm Posters",
+    "category": "posters",
+    "price": 30,
+    "image_url": "https://wallartset.com/cdn/shop/files/Pink-Cherry-Disco-Balls-Wall-Decor.Thinwood-Frames-Over-the-Couch.webp?v=1732026024",
+    "color": "pink",
+    "material": "paper",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "pastel"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "66",
+    "name": "Desk Vanity",
+    "category": "vanity",
+    "price": 60,
+    "image_url": "https://assets.ptimgs.com/ptimgs/ab/images/dp/ecm/202526/0294/028/627.jpg",
+    "color": "white",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "pastel",
+      "boho"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "67",
+    "name": "Wooden Vanity",
+    "category": "vanity",
+    "price": 80,
+    "image_url": "https://m.media-amazon.com/images/I/81G+QhfelpL._AC_UF894,1000_QL80_.jpg",
+    "color": "brown",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "pastel",
+      "boho",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "68",
+    "name": "Black Desk Vanity",
+    "category": "vanity",
+    "price": 60,
+    "image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/a59d3a39e71c4bf4bd46f6676156778d~tplv-fhlh96nyum-resize-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=948674b7&idc=useast5&from=2378011839",
+    "color": "black",
+    "material": "wood",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "69",
+    "name": "Brown Beanbag",
+    "category": "beanbag",
+    "price": 50,
+    "image_url": "https://target.scene7.com/is/image/Target/GUEST_e21ec384-15b9-45cd-8221-6b86d93db194?wid=300&hei=300&fmt=pjpeg",
+    "color": "brown",
+    "material": "cotton",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "vintage"
+    ],
+    "source": "ikea",
+    "product_url": "#"
+  },
+  {
+    "id": "70",
+    "name": "White Beanbag",
+    "category": "beanbag",
+    "price": 40,
+    "image_url": "https://roomanddecor.com/cdn/shop/files/885915188c9246646e3988d1043b6cbb.jpg?v=1725056208&width=1946",
+    "color": "white",
+    "material": "cotton",
+    "style_tags": [
+      "modern",
+      "minimalist",
+      "cozy",
+      "vintage",
+      "pastel"
     ],
     "source": "ikea",
     "product_url": "#"
